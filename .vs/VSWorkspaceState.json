@@ -1,0 +1,11 @@
+{
+  "ExpandedNodes": [
+    "",
+    "\\udagram-api",
+    "\\udagram-api\\mock",
+    "\\udagram-api\\src",
+    "\\udagram-api\\src\\migrations"
+  ],
+  "SelectedNode": "\\udagram-api\\src\\server.ts",
+  "PreviewInSolutionExplorer": false
+}
